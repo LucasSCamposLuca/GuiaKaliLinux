@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Centralizador{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.SistemRedesProg h3{
+    margin: 10px;
+    padding: 10px;
+}
+
+.SistemRedesProg p{
+    margin: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#TituloHeader{
+    text-align: center;
+}
+
+#TituloHeader h1{
+    margin: 20px;
+}
+
+nav{
+   text-align: center;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   font-size: 19px;
+}
+
+nav a{
+    text-decoration: none;
+    font-weight: 600;
+    margin: 10px;
+}
+
+#Trindade{
+    text-align: center;
+}
